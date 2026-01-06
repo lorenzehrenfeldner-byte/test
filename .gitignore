@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+renv/local/
+
+# Data and Output
+data/
+output/
